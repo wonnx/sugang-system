@@ -1,6 +1,6 @@
 # enrolment-system
-![Course registration main screen](/Users/wonnx/Github/enrolment-system/main.png)
-
+<h4>main screen</h1>
+<img width="75%" src="./main.png"/>
 
 # default environment
 IntelliJ IDEA 2022.2  
