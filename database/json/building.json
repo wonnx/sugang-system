@@ -1,0 +1,80 @@
+[
+ {
+   "building_id": 305,
+   "name": "IT / BT",
+   "admin": "공과대학",
+   "rooms": 19
+ },
+ {
+   "building_id": 618,
+   "name": "의대계단 강의동",
+   "admin": "의과대학",
+   "rooms": 15
+ },
+ {
+   "building_id": 401,
+   "name": "생활과학관",
+   "admin": "인문과학",
+   "rooms": 20
+ },
+ {
+   "building_id": 304,
+   "name": "산학기술관",
+   "admin": "공과대학",
+   "rooms": 13
+ },
+ {
+   "building_id": 306,
+   "name": "올림픽 체육관",
+   "admin": "예술학부",
+   "rooms": 5
+ },
+ {
+   "building_id": 212,
+   "name": "제 1공학관",
+   "admin": "공과대학",
+   "rooms": 34
+ },
+ {
+   "building_id": 211,
+   "name": "제 2공학관",
+   "admin": "공과대학",
+   "rooms": 23
+ },
+ {
+   "building_id": 208,
+   "name": "FTC",
+   "admin": "공과대학",
+   "rooms": 7
+ },
+ {
+   "building_id": 604,
+   "name": "제 1의학관",
+   "admin": "의과대학",
+   "rooms": 9
+ },
+ {
+   "building_id": 407,
+   "name": "제 1법학관",
+   "admin": "법과대학",
+   "rooms": 10
+ },
+ {
+   "building_id": 408,
+   "name": "제 2법학관",
+   "admin": "법과대학",
+   "rooms": 13
+ },
+ {
+   "building_id": 507,
+   "name": "자연과학관",
+   "admin": "자연과학",
+   "rooms": 18
+ },
+ {
+   "building_id": 504,
+   "name": "사회과학관",
+   "admin": "사회과학",
+   "rooms": 13
+ }
+]

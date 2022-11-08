@@ -1,0 +1,2081 @@
+[
+ {
+   "credits_id": 1,
+   "student_id": 2018003125,
+   "course_id": "GEN5026",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 2,
+   "student_id": 2018003125,
+   "course_id": "ARE4014",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 3,
+   "student_id": 2018003125,
+   "course_id": "ARE4026",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 4,
+   "student_id": 2018003125,
+   "course_id": "ARE5032",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 5,
+   "student_id": 2018003125,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 6,
+   "student_id": 2018003125,
+   "course_id": "MEE4001",
+   "year": 2022,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 7,
+   "student_id": 2018003125,
+   "course_id": "ECL3007",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 8,
+   "student_id": 2018003125,
+   "course_id": "ARE3069",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 9,
+   "student_id": 2018003125,
+   "course_id": "CHE3006",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 10,
+   "student_id": 2018003125,
+   "course_id": "ONE4005",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 11,
+   "student_id": 2018003125,
+   "course_id": "CHM4013",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 12,
+   "student_id": 2018004052,
+   "course_id": "ELE4025",
+   "year": 2022,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 13,
+   "student_id": 2018004052,
+   "course_id": "GEN5026",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 14,
+   "student_id": 2018004052,
+   "course_id": "ARE4014",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 15,
+   "student_id": 2018004052,
+   "course_id": "ARE4026",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 16,
+   "student_id": 2018004052,
+   "course_id": "ARE5032",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 17,
+   "student_id": 2018004052,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 18,
+   "student_id": 2018004052,
+   "course_id": "ONE4004",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 19,
+   "student_id": 2018004052,
+   "course_id": "CIE4011",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 20,
+   "student_id": 2018004052,
+   "course_id": "CIE4065",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 21,
+   "student_id": 2018004052,
+   "course_id": "EEC3005",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 22,
+   "student_id": 2018004052,
+   "course_id": "CSE4006",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 23,
+   "student_id": 2018004052,
+   "course_id": "ENE4019",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 24,
+   "student_id": 2018004052,
+   "course_id": "ONE4004",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 25,
+   "student_id": 2019499349,
+   "course_id": "ITE3068",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 26,
+   "student_id": 2019499349,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 27,
+   "student_id": 2019499349,
+   "course_id": "ENE4019",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 28,
+   "student_id": 2019499349,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 29,
+   "student_id": 2019499349,
+   "course_id": "ITE3060",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 30,
+   "student_id": 2019499349,
+   "course_id": "ECL3007",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 31,
+   "student_id": 2019499349,
+   "course_id": "ICH4022",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 32,
+   "student_id": 2019499349,
+   "course_id": "CIE4058",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 33,
+   "student_id": 2019499349,
+   "course_id": "MME3026",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 34,
+   "student_id": 2019499349,
+   "course_id": "EGY3001",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 35,
+   "student_id": 2020004533,
+   "course_id": "GEN5026",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 36,
+   "student_id": 2020004533,
+   "course_id": "ARE4014",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 37,
+   "student_id": 2020004533,
+   "course_id": "ARE4026",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 38,
+   "student_id": 2020004533,
+   "course_id": "ARE5032",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 39,
+   "student_id": 2020004533,
+   "course_id": "CIE3070",
+   "year": 2022,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 40,
+   "student_id": 2020004533,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 41,
+   "student_id": 2020004533,
+   "course_id": "CHM4001",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 42,
+   "student_id": 2020004533,
+   "course_id": "CIE3032",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 43,
+   "student_id": 2020004533,
+   "course_id": "COE3053",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 44,
+   "student_id": 2020004533,
+   "course_id": "CSE4006",
+   "year": 2021,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 45,
+   "student_id": 2020004533,
+   "course_id": "CSE4006",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 46,
+   "student_id": 2020004533,
+   "course_id": "ITE3016",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 47,
+   "student_id": 2020004533,
+   "course_id": "ECL3005",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 48,
+   "student_id": 2020004533,
+   "course_id": "ARE4026",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 49,
+   "student_id": 2020004533,
+   "course_id": "EGY4019",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 50,
+   "student_id": 2020004533,
+   "course_id": "GEN5026",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 51,
+   "student_id": 2020040404,
+   "course_id": "CIE4058",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 52,
+   "student_id": 2020040404,
+   "course_id": "ITE3068",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 53,
+   "student_id": 2020040404,
+   "course_id": "ITE3070",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 54,
+   "student_id": 2020040404,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 55,
+   "student_id": 2020040404,
+   "course_id": "ENE4019",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 56,
+   "student_id": 2020040404,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 57,
+   "student_id": 2020040404,
+   "course_id": "ITE3060",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 58,
+   "student_id": 2020040404,
+   "course_id": "ECL3007",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 59,
+   "student_id": 2020040404,
+   "course_id": "ECL4010",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 60,
+   "student_id": 2020040404,
+   "course_id": "ARE4030",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 61,
+   "student_id": 2020040404,
+   "course_id": "CIE4011",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 62,
+   "student_id": 2020040404,
+   "course_id": "CIE4011",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 63,
+   "student_id": 2020040404,
+   "course_id": "COE3053",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 64,
+   "student_id": 2020040404,
+   "course_id": "EEC3005",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 65,
+   "student_id": 2020040404,
+   "course_id": "CIE3070",
+   "year": 2021,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 66,
+   "student_id": 2020040404,
+   "course_id": "DBC3018",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 67,
+   "student_id": 2020040404,
+   "course_id": "EGY3001",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 68,
+   "student_id": 2020040404,
+   "course_id": "EGY3001",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 69,
+   "student_id": 2020004003,
+   "course_id": "CIE3032",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 70,
+   "student_id": 2020004003,
+   "course_id": "CIE4047",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 71,
+   "student_id": 2020004003,
+   "course_id": "CIE4068",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 72,
+   "student_id": 2020004003,
+   "course_id": "ARE4022",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 73,
+   "student_id": 2020004003,
+   "course_id": "CHM4013",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 74,
+   "student_id": 2020004003,
+   "course_id": "EGY4013",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 75,
+   "student_id": 2020004003,
+   "course_id": "EGY4019",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 76,
+   "student_id": 2020004003,
+   "course_id": "CIE3032",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 77,
+   "student_id": 2020004003,
+   "course_id": "CIE4065",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 78,
+   "student_id": 2020004003,
+   "course_id": "COE3053",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 79,
+   "student_id": 2020004003,
+   "course_id": "GEN6006",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 80,
+   "student_id": 2020004003,
+   "course_id": "ECL3005",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 81,
+   "student_id": 2020004003,
+   "course_id": "ARE4014",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 82,
+   "student_id": 2020004003,
+   "course_id": "CIE2007",
+   "year": 2021,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 83,
+   "student_id": 2020004003,
+   "course_id": "CHM3078",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 84,
+   "student_id": 2020004003,
+   "course_id": "EGY4016",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 85,
+   "student_id": 2020004203,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 86,
+   "student_id": 2020004203,
+   "course_id": "ITE3070",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 87,
+   "student_id": 2020004203,
+   "course_id": "ELE3020",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 88,
+   "student_id": 2020004203,
+   "course_id": "ENE4019",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 89,
+   "student_id": 2020004203,
+   "course_id": "ITE3016",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 90,
+   "student_id": 2020004203,
+   "course_id": "MAT3008",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 91,
+   "student_id": 2021030303,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 92,
+   "student_id": 2021030303,
+   "course_id": "ELE4029",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 93,
+   "student_id": 2021030303,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 94,
+   "student_id": 2021030303,
+   "course_id": "ITE3016",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 95,
+   "student_id": 2021030303,
+   "course_id": "ECL3005",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 96,
+   "student_id": 2021030303,
+   "course_id": "ECL4010",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 97,
+   "student_id": 2021030303,
+   "course_id": "ELE4025",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 98,
+   "student_id": 2021030303,
+   "course_id": "ARE4014",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 99,
+   "student_id": 2021030303,
+   "course_id": "EEC3005",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 100,
+   "student_id": 2021030303,
+   "course_id": "GEN6095",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 101,
+   "student_id": 2021030303,
+   "course_id": "ELE4029",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 102,
+   "student_id": 2021030303,
+   "course_id": "ENE4019",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 103,
+   "student_id": 2021030303,
+   "course_id": "ECL4018",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 104,
+   "student_id": 2021030303,
+   "course_id": "ARE4022",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 105,
+   "student_id": 2021030303,
+   "course_id": "COE1011",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 106,
+   "student_id": 2021030303,
+   "course_id": "COE1011",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 107,
+   "student_id": 2020394929,
+   "course_id": "CIE4011",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 108,
+   "student_id": 2020394929,
+   "course_id": "ITE3068",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 109,
+   "student_id": 2020394929,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 110,
+   "student_id": 2020394929,
+   "course_id": "ENE4019",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 111,
+   "student_id": 2020394929,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 112,
+   "student_id": 2020394929,
+   "course_id": "ITE3060",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 113,
+   "student_id": 2020394929,
+   "course_id": "ECL3007",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 114,
+   "student_id": 2020394929,
+   "course_id": "ECL4014",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 115,
+   "student_id": 2020394929,
+   "course_id": "CSE4006",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 116,
+   "student_id": 2020394929,
+   "course_id": "ELE3020",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 117,
+   "student_id": 2020394929,
+   "course_id": "GEN6006",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 118,
+   "student_id": 2020394929,
+   "course_id": "ECL4014",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 119,
+   "student_id": 2020394929,
+   "course_id": "ARE4026",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 120,
+   "student_id": 2020394929,
+   "course_id": "ARE4030",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 121,
+   "student_id": 2020394929,
+   "course_id": "CIE2007",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 122,
+   "student_id": 2020394929,
+   "course_id": "CHM4001",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 123,
+   "student_id": 2020394929,
+   "course_id": "ONE4004",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 124,
+   "student_id": 2021001445,
+   "course_id": "GEN5026",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 125,
+   "student_id": 2021001445,
+   "course_id": "ARE4014",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 126,
+   "student_id": 2021001445,
+   "course_id": "ARE4026",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 127,
+   "student_id": 2021001445,
+   "course_id": "ARE5032",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 128,
+   "student_id": 2021001445,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 129,
+   "student_id": 2021001445,
+   "course_id": "ONE4004",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 130,
+   "student_id": 2021001445,
+   "course_id": "ITE3016",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 131,
+   "student_id": 2021001445,
+   "course_id": "ITE3060",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 132,
+   "student_id": 2021001445,
+   "course_id": "ELE4025",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 133,
+   "student_id": 2021001445,
+   "course_id": "ARE4026",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 134,
+   "student_id": 2021001445,
+   "course_id": "ARE5013",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 135,
+   "student_id": 2021001445,
+   "course_id": "EGY4019",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 136,
+   "student_id": 2021004004,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 137,
+   "student_id": 2021004004,
+   "course_id": "ELE4029",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 138,
+   "student_id": 2021004004,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 139,
+   "student_id": 2021004004,
+   "course_id": "ITE3016",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 140,
+   "student_id": 2021004004,
+   "course_id": "ECL3005",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 141,
+   "student_id": 2021004004,
+   "course_id": "ECL4010",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 142,
+   "student_id": 2021004004,
+   "course_id": "COE1011",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 143,
+   "student_id": 2021004004,
+   "course_id": "ONE4011",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 144,
+   "student_id": 2021004004,
+   "course_id": "ARE5032",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 145,
+   "student_id": 2021004004,
+   "course_id": "GEN5026",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 146,
+   "student_id": 2021004004,
+   "course_id": "BIO2022",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 147,
+   "student_id": 2021004004,
+   "course_id": "CHM4013",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 148,
+   "student_id": 2021004004,
+   "course_id": "EGY4013",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 149,
+   "student_id": 2021004004,
+   "course_id": "EGY4016",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 150,
+   "student_id": 2021004394,
+   "course_id": "CIE3032",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 151,
+   "student_id": 2021004394,
+   "course_id": "CIE4047",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 152,
+   "student_id": 2021004394,
+   "course_id": "CIE4068",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 153,
+   "student_id": 2021004394,
+   "course_id": "ENE4019",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 154,
+   "student_id": 2021004394,
+   "course_id": "ARE5013",
+   "year": 2022,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 155,
+   "student_id": 2021004394,
+   "course_id": "CHM4083",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 156,
+   "student_id": 2021004394,
+   "course_id": "GEN5026",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 157,
+   "student_id": 2021004394,
+   "course_id": "CHM4013",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 158,
+   "student_id": 2021004394,
+   "course_id": "EGY4013",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 159,
+   "student_id": 2021004394,
+   "course_id": "EGY4019",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 160,
+   "student_id": 2021004394,
+   "course_id": "CSE4006",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 161,
+   "student_id": 2021004394,
+   "course_id": "GEN6095",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 162,
+   "student_id": 2021004394,
+   "course_id": "ECL4013",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 163,
+   "student_id": 2021004394,
+   "course_id": "GEN5026",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 164,
+   "student_id": 2021004394,
+   "course_id": "ARE4026",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 165,
+   "student_id": 2021004394,
+   "course_id": "CIE3070",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 166,
+   "student_id": 2021004394,
+   "course_id": "CHM4083",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 167,
+   "student_id": 2021004394,
+   "course_id": "GEN3052",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 168,
+   "student_id": 2021030128,
+   "course_id": "CIE3032",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 169,
+   "student_id": 2021030128,
+   "course_id": "CIE4047",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 170,
+   "student_id": 2021030128,
+   "course_id": "CIE4065",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 171,
+   "student_id": 2021030128,
+   "course_id": "CIE4068",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 172,
+   "student_id": 2021030128,
+   "course_id": "ECL4011",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 173,
+   "student_id": 2021030128,
+   "course_id": "BTN4005",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 174,
+   "student_id": 2021030128,
+   "course_id": "CHM4013",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 175,
+   "student_id": 2021030128,
+   "course_id": "EGY4013",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 176,
+   "student_id": 2021030128,
+   "course_id": "EGY4019",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 177,
+   "student_id": 2021030128,
+   "course_id": "CIE4058",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 178,
+   "student_id": 2021030128,
+   "course_id": "MAT3008",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 179,
+   "student_id": 2021030128,
+   "course_id": "ECL4015",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 180,
+   "student_id": 2021030128,
+   "course_id": "ECL4018",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 181,
+   "student_id": 2021030128,
+   "course_id": "ARE3009",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 182,
+   "student_id": 2021030128,
+   "course_id": "CHE3012",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 183,
+   "student_id": 2021030128,
+   "course_id": "EGY3001",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 184,
+   "student_id": 2021040051,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 185,
+   "student_id": 2021040051,
+   "course_id": "CIE2007",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 186,
+   "student_id": 2021040051,
+   "course_id": "MAT3008",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 187,
+   "student_id": 2021040051,
+   "course_id": "CHE3012",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 188,
+   "student_id": 2021040051,
+   "course_id": "CHM3066",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 189,
+   "student_id": 2021040051,
+   "course_id": "CHM4013",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 190,
+   "student_id": 2021040051,
+   "course_id": "CME4002",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 191,
+   "student_id": 2021040051,
+   "course_id": "GEN3052",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 192,
+   "student_id": 2021040051,
+   "course_id": "MEE4001",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 193,
+   "student_id": 2021040051,
+   "course_id": "CIE3033",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 194,
+   "student_id": 2021040051,
+   "course_id": "CSE4006",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 195,
+   "student_id": 2021040051,
+   "course_id": "GEN3052",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 196,
+   "student_id": 2021040051,
+   "course_id": "ONE4004",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 197,
+   "student_id": 2021040051,
+   "course_id": "EGY4013",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 198,
+   "student_id": 2022001303,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 199,
+   "student_id": 2022001303,
+   "course_id": "BTN4012",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 200,
+   "student_id": 2022001303,
+   "course_id": "DBC3018",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 201,
+   "student_id": 2022001303,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 202,
+   "student_id": 2022001303,
+   "course_id": "ONE4004",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 203,
+   "student_id": 2022001303,
+   "course_id": "ONE4011",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 204,
+   "student_id": 2022001303,
+   "course_id": "CIE3022",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 205,
+   "student_id": 2022001303,
+   "course_id": "MME3026",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 206,
+   "student_id": 2022001303,
+   "course_id": "ITE3068",
+   "year": 2021,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 207,
+   "student_id": 2022001303,
+   "course_id": "ITE3070",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 208,
+   "student_id": 2022001303,
+   "course_id": "CSE4006",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 209,
+   "student_id": 2022001303,
+   "course_id": "ELE4029",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 210,
+   "student_id": 2022001303,
+   "course_id": "ECL4010",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 211,
+   "student_id": 2022001303,
+   "course_id": "ECL4018",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 212,
+   "student_id": 2022001303,
+   "course_id": "ELE3004",
+   "year": 2021,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 213,
+   "student_id": 2022001303,
+   "course_id": "ARE3009",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 214,
+   "student_id": 2022001303,
+   "course_id": "CHE4054",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 215,
+   "student_id": 2022002331,
+   "course_id": "ECL4015",
+   "year": 2022,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 216,
+   "student_id": 2022002331,
+   "course_id": "CHE3012",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 217,
+   "student_id": 2022002331,
+   "course_id": "CHM3066",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 218,
+   "student_id": 2022002331,
+   "course_id": "CHM4013",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 219,
+   "student_id": 2022002331,
+   "course_id": "CME4002",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 220,
+   "student_id": 2022002331,
+   "course_id": "GEN3052",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 221,
+   "student_id": 2022002331,
+   "course_id": "MEE4001",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 222,
+   "student_id": 2022002331,
+   "course_id": "CIE4047",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 223,
+   "student_id": 2022002331,
+   "course_id": "CSE4006",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 224,
+   "student_id": 2022002331,
+   "course_id": "ECL4015",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 225,
+   "student_id": 2022002331,
+   "course_id": "ELE3004",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 226,
+   "student_id": 2022002331,
+   "course_id": "ARE4020",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 227,
+   "student_id": 2022002331,
+   "course_id": "CHE4053",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 228,
+   "student_id": 2022005004,
+   "course_id": "CIE3032",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 229,
+   "student_id": 2022005004,
+   "course_id": "CIE4047",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 230,
+   "student_id": 2022005004,
+   "course_id": "CIE4068",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 231,
+   "student_id": 2022005004,
+   "course_id": "ECL4009",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 232,
+   "student_id": 2022005004,
+   "course_id": "ARE3069",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 233,
+   "student_id": 2022005004,
+   "course_id": "ARE5032",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 234,
+   "student_id": 2022005004,
+   "course_id": "CHE4053",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 235,
+   "student_id": 2022005004,
+   "course_id": "CHM4013",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 236,
+   "student_id": 2022005004,
+   "course_id": "EGY4013",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 237,
+   "student_id": 2022005004,
+   "course_id": "EGY4016",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 238,
+   "student_id": 2022005004,
+   "course_id": "EGY4019",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 239,
+   "student_id": 2022005004,
+   "course_id": "MME3026",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 240,
+   "student_id": 2022005004,
+   "course_id": "CSE4006",
+   "year": 2021,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 241,
+   "student_id": 2022005004,
+   "course_id": "GEN6006",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 242,
+   "student_id": 2022005004,
+   "course_id": "ECL4013",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 243,
+   "student_id": 2022005004,
+   "course_id": "ARE4026",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 244,
+   "student_id": 2022005004,
+   "course_id": "CHE4053",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 245,
+   "student_id": 2022005004,
+   "course_id": "BTN4009",
+   "year": 2021,
+   "grade": "F"
+ },
+ {
+   "credits_id": 246,
+   "student_id": 2022005004,
+   "course_id": "BTN4009",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 247,
+   "student_id": 2022005004,
+   "course_id": "ONE4004",
+   "year": 2021,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 248,
+   "student_id": 2022005004,
+   "course_id": "EGY4016",
+   "year": 2021,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 249,
+   "student_id": 2022019493,
+   "course_id": "ARE5013",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 250,
+   "student_id": 2022019493,
+   "course_id": "BTN4012",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 251,
+   "student_id": 2022019493,
+   "course_id": "DBC3018",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 252,
+   "student_id": 2022019493,
+   "course_id": "GEN6095",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 253,
+   "student_id": 2022019493,
+   "course_id": "ONE4004",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 254,
+   "student_id": 2022019493,
+   "course_id": "ONE4011",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 255,
+   "student_id": 2022019493,
+   "course_id": "CIE3033",
+   "year": 2019,
+   "grade": "F"
+ },
+ {
+   "credits_id": 256,
+   "student_id": 2022019493,
+   "course_id": "CIE4068",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 257,
+   "student_id": 2022019493,
+   "course_id": "CIE4068",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 258,
+   "student_id": 2022019493,
+   "course_id": "CSE4006",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 259,
+   "student_id": 2022019493,
+   "course_id": "ARE4020",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 260,
+   "student_id": 2022019493,
+   "course_id": "ICH4022",
+   "year": 2019,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 261,
+   "student_id": 2022019493,
+   "course_id": "ONE4004",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 262,
+   "student_id": 2022040404,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 263,
+   "student_id": 2022040404,
+   "course_id": "ELE4029",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 264,
+   "student_id": 2022040404,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 265,
+   "student_id": 2022040404,
+   "course_id": "ITE3016",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 266,
+   "student_id": 2022040404,
+   "course_id": "ECL3005",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 267,
+   "student_id": 2022040404,
+   "course_id": "ECL4010",
+   "year": 2022,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 268,
+   "student_id": 2022040404,
+   "course_id": "ARE4014",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 269,
+   "student_id": 2022040404,
+   "course_id": "CHM3078",
+   "year": 2022,
+   "grade": "D+"
+ },
+ {
+   "credits_id": 270,
+   "student_id": 2022040404,
+   "course_id": "CIE4047",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 271,
+   "student_id": 2022040404,
+   "course_id": "MAT3008",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 272,
+   "student_id": 2022040404,
+   "course_id": "CHE4054",
+   "year": 2019,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 273,
+   "student_id": 2022040404,
+   "course_id": "DBC3018",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 274,
+   "student_id": 2022040404,
+   "course_id": "CHM4013",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 275,
+   "student_id": 2022040404,
+   "course_id": "CHM4013",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 276,
+   "student_id": 2022505050,
+   "course_id": "CSE4006",
+   "year": 2022,
+   "grade": "F"
+ },
+ {
+   "credits_id": 277,
+   "student_id": 2022505050,
+   "course_id": "ELE4029",
+   "year": 2022,
+   "grade": "A+"
+ },
+ {
+   "credits_id": 278,
+   "student_id": 2022505050,
+   "course_id": "GEN6006",
+   "year": 2022,
+   "grade": "B+"
+ },
+ {
+   "credits_id": 279,
+   "student_id": 2022505050,
+   "course_id": "ITE3016",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 280,
+   "student_id": 2022505050,
+   "course_id": "ECL3005",
+   "year": 2022,
+   "grade": "C+"
+ },
+ {
+   "credits_id": 281,
+   "student_id": 2022505050,
+   "course_id": "ECL4010",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 282,
+   "student_id": 2022505050,
+   "course_id": "ARE4020",
+   "year": 2022,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 283,
+   "student_id": 2022505050,
+   "course_id": "ARE5032",
+   "year": 2022,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 284,
+   "student_id": 2022505050,
+   "course_id": "DBC3018",
+   "year": 2022,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 285,
+   "student_id": 2022505050,
+   "course_id": "CIE3033",
+   "year": 2020,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 286,
+   "student_id": 2022505050,
+   "course_id": "CIE4065",
+   "year": 2020,
+   "grade": "F"
+ },
+ {
+   "credits_id": 287,
+   "student_id": 2022505050,
+   "course_id": "COE3053",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 288,
+   "student_id": 2022505050,
+   "course_id": "ITE3070",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 289,
+   "student_id": 2022505050,
+   "course_id": "ENE4019",
+   "year": 2020,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 290,
+   "student_id": 2022505050,
+   "course_id": "ITE3016",
+   "year": 2020,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 291,
+   "student_id": 2022505050,
+   "course_id": "ELE3013",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 292,
+   "student_id": 2022505050,
+   "course_id": "ARE4014",
+   "year": 2020,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 293,
+   "student_id": 2022505050,
+   "course_id": "COE1011",
+   "year": 2019,
+   "grade": "B0"
+ },
+ {
+   "credits_id": 294,
+   "student_id": 2022505050,
+   "course_id": "GEN5026",
+   "year": 2019,
+   "grade": "A0"
+ },
+ {
+   "credits_id": 295,
+   "student_id": 2022505050,
+   "course_id": "BTN4009",
+   "year": 2021,
+   "grade": "D0"
+ },
+ {
+   "credits_id": 296,
+   "student_id": 2022505050,
+   "course_id": "DBC3018",
+   "year": 2021,
+   "grade": "C0"
+ },
+ {
+   "credits_id": 297,
+   "student_id": 2022505050,
+   "course_id": "GEN5026",
+   "year": 2021,
+   "grade": "B0"
+ }
+]

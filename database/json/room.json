@@ -1,0 +1,997 @@
+[
+ {
+   "room_id": 1,
+   "building_id": 305,
+   "occupancy": 140
+ },
+ {
+   "room_id": 2,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 3,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 4,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 5,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 6,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 7,
+   "building_id": 305,
+   "occupancy": 30
+ },
+ {
+   "room_id": 8,
+   "building_id": 305,
+   "occupancy": 35
+ },
+ {
+   "room_id": 9,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 10,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 11,
+   "building_id": 305,
+   "occupancy": 50
+ },
+ {
+   "room_id": 12,
+   "building_id": 305,
+   "occupancy": 100
+ },
+ {
+   "room_id": 13,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 14,
+   "building_id": 305,
+   "occupancy": 50
+ },
+ {
+   "room_id": 15,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 16,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 17,
+   "building_id": 305,
+   "occupancy": 50
+ },
+ {
+   "room_id": 18,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 19,
+   "building_id": 305,
+   "occupancy": 40
+ },
+ {
+   "room_id": 20,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 21,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 22,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 23,
+   "building_id": 618,
+   "occupancy": 50
+ },
+ {
+   "room_id": 24,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 25,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 26,
+   "building_id": 618,
+   "occupancy": 80
+ },
+ {
+   "room_id": 27,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 28,
+   "building_id": 618,
+   "occupancy": 120
+ },
+ {
+   "room_id": 29,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 30,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 31,
+   "building_id": 618,
+   "occupancy": 50
+ },
+ {
+   "room_id": 32,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 33,
+   "building_id": 618,
+   "occupancy": 40
+ },
+ {
+   "room_id": 34,
+   "building_id": 618,
+   "occupancy": 30
+ },
+ {
+   "room_id": 35,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 36,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 37,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 38,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 39,
+   "building_id": 401,
+   "occupancy": 50
+ },
+ {
+   "room_id": 40,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 41,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 42,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 43,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 44,
+   "building_id": 401,
+   "occupancy": 50
+ },
+ {
+   "room_id": 45,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 46,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 47,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 48,
+   "building_id": 401,
+   "occupancy": 45
+ },
+ {
+   "room_id": 49,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 50,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 51,
+   "building_id": 401,
+   "occupancy": 100
+ },
+ {
+   "room_id": 52,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 53,
+   "building_id": 401,
+   "occupancy": 40
+ },
+ {
+   "room_id": 54,
+   "building_id": 401,
+   "occupancy": 120
+ },
+ {
+   "room_id": 55,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 56,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 57,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 58,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 59,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 60,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 61,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 62,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 63,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 64,
+   "building_id": 304,
+   "occupancy": 50
+ },
+ {
+   "room_id": 65,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 66,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 67,
+   "building_id": 304,
+   "occupancy": 40
+ },
+ {
+   "room_id": 68,
+   "building_id": 306,
+   "occupancy": 40
+ },
+ {
+   "room_id": 69,
+   "building_id": 306,
+   "occupancy": 40
+ },
+ {
+   "room_id": 70,
+   "building_id": 306,
+   "occupancy": 40
+ },
+ {
+   "room_id": 71,
+   "building_id": 306,
+   "occupancy": 40
+ },
+ {
+   "room_id": 72,
+   "building_id": 306,
+   "occupancy": 40
+ },
+ {
+   "room_id": 73,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 74,
+   "building_id": 212,
+   "occupancy": 80
+ },
+ {
+   "room_id": 75,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 76,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 77,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 78,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 79,
+   "building_id": 212,
+   "occupancy": 100
+ },
+ {
+   "room_id": 80,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 81,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 82,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 83,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 84,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 85,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 86,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 87,
+   "building_id": 212,
+   "occupancy": 30
+ },
+ {
+   "room_id": 88,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 89,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 90,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 91,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 92,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 93,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 94,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 95,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 96,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 97,
+   "building_id": 212,
+   "occupancy": 35
+ },
+ {
+   "room_id": 98,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 99,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 100,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 101,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 102,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 103,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 104,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 105,
+   "building_id": 212,
+   "occupancy": 40
+ },
+ {
+   "room_id": 106,
+   "building_id": 212,
+   "occupancy": 45
+ },
+ {
+   "room_id": 107,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 108,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 109,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 110,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 111,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 112,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 113,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 114,
+   "building_id": 211,
+   "occupancy": 55
+ },
+ {
+   "room_id": 115,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 116,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 117,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 118,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 119,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 120,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 121,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 122,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 123,
+   "building_id": 211,
+   "occupancy": 65
+ },
+ {
+   "room_id": 124,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 125,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 126,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 127,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 128,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 129,
+   "building_id": 211,
+   "occupancy": 40
+ },
+ {
+   "room_id": 130,
+   "building_id": 208,
+   "occupancy": 40
+ },
+ {
+   "room_id": 131,
+   "building_id": 208,
+   "occupancy": 40
+ },
+ {
+   "room_id": 132,
+   "building_id": 208,
+   "occupancy": 110
+ },
+ {
+   "room_id": 133,
+   "building_id": 208,
+   "occupancy": 40
+ },
+ {
+   "room_id": 134,
+   "building_id": 208,
+   "occupancy": 40
+ },
+ {
+   "room_id": 135,
+   "building_id": 208,
+   "occupancy": 40
+ },
+ {
+   "room_id": 136,
+   "building_id": 208,
+   "occupancy": 40
+ },
+ {
+   "room_id": 137,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 138,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 139,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 140,
+   "building_id": 604,
+   "occupancy": 90
+ },
+ {
+   "room_id": 141,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 142,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 143,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 144,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 145,
+   "building_id": 604,
+   "occupancy": 40
+ },
+ {
+   "room_id": 146,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 147,
+   "building_id": 407,
+   "occupancy": 70
+ },
+ {
+   "room_id": 148,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 149,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 150,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 151,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 152,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 153,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 154,
+   "building_id": 407,
+   "occupancy": 60
+ },
+ {
+   "room_id": 155,
+   "building_id": 407,
+   "occupancy": 40
+ },
+ {
+   "room_id": 156,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 157,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 158,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 159,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 160,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 161,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 162,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 163,
+   "building_id": 408,
+   "occupancy": 65
+ },
+ {
+   "room_id": 164,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 165,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 166,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 167,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 168,
+   "building_id": 408,
+   "occupancy": 40
+ },
+ {
+   "room_id": 169,
+   "building_id": 507,
+   "occupancy": 120
+ },
+ {
+   "room_id": 170,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 171,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 172,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 173,
+   "building_id": 507,
+   "occupancy": 80
+ },
+ {
+   "room_id": 174,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 175,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 176,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 177,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 178,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 179,
+   "building_id": 507,
+   "occupancy": 35
+ },
+ {
+   "room_id": 180,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 181,
+   "building_id": 507,
+   "occupancy": 55
+ },
+ {
+   "room_id": 182,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 183,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 184,
+   "building_id": 507,
+   "occupancy": 45
+ },
+ {
+   "room_id": 185,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 186,
+   "building_id": 507,
+   "occupancy": 40
+ },
+ {
+   "room_id": 187,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 188,
+   "building_id": 504,
+   "occupancy": 95
+ },
+ {
+   "room_id": 189,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 190,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 191,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 192,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 193,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 194,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 195,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 196,
+   "building_id": 504,
+   "occupancy": 40
+ },
+ {
+   "room_id": 197,
+   "building_id": 504,
+   "occupancy": 84
+ },
+ {
+   "room_id": 198,
+   "building_id": 504,
+   "occupancy": 50
+ },
+ {
+   "room_id": 199,
+   "building_id": 504,
+   "occupancy": 40
+ }
+]

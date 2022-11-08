@@ -1,0 +1,377 @@
+[
+ {
+   "course_id": "CIE3022",
+   "name": "철근콘크리트구조설계",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE4011",
+   "name": "수리학및실험",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE4065",
+   "name": "유비쿼터스첨단건설공학",
+   "credit": 3
+ },
+ {
+   "course_id": "EEC3005",
+   "name": "상하수도공학",
+   "credit": 3
+ },
+ {
+   "course_id": "CSE4006",
+   "name": "소프트웨어공학",
+   "credit": 3
+ },
+ {
+   "course_id": "ITE3070",
+   "name": "전공멘토링6",
+   "credit": 1
+ },
+ {
+   "course_id": "ELE3020",
+   "name": "컴퓨터구조2",
+   "credit": 3
+ },
+ {
+   "course_id": "ENE4019",
+   "name": "컴퓨터네트워크",
+   "credit": 3
+ },
+ {
+   "course_id": "ITE3016",
+   "name": "데이터베이스시스템",
+   "credit": 3
+ },
+ {
+   "course_id": "MAT3008",
+   "name": "수치해석",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4009",
+   "name": "피드백시스템",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4013",
+   "name": "전기공학종합설계2",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4018",
+   "name": "전기공학세미나",
+   "credit": 3
+ },
+ {
+   "course_id": "ELE4019",
+   "name": "전력시스템공학",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE3009",
+   "name": "건축구조역학2",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE4020",
+   "name": "건축공학실험",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE4030",
+   "name": "전기회로및조명시스템",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE2007",
+   "name": "측량학",
+   "credit": 3
+ },
+ {
+   "course_id": "CHE3012",
+   "name": "물질전달",
+   "credit": 3
+ },
+ {
+   "course_id": "CHM3066",
+   "name": "화공기초실험",
+   "credit": 2
+ },
+ {
+   "course_id": "CHM4013",
+   "name": "고분자물성",
+   "credit": 3
+ },
+ {
+   "course_id": "CME4002",
+   "name": "화공전산설계",
+   "credit": 3
+ },
+ {
+   "course_id": "GEN3052",
+   "name": "환경공학",
+   "credit": 3
+ },
+ {
+   "course_id": "MEE4001",
+   "name": "열전달",
+   "credit": 3
+ },
+ {
+   "course_id": "BTN4005",
+   "name": "생물나노소재",
+   "credit": 3
+ },
+ {
+   "course_id": "BTN4012",
+   "name": "공학종합설계2(URIP)",
+   "credit": 1
+ },
+ {
+   "course_id": "DBC3018",
+   "name": "미생물학",
+   "credit": 3
+ },
+ {
+   "course_id": "GEN6095",
+   "name": "전공현장실습2",
+   "credit": 3
+ },
+ {
+   "course_id": "ONE4004",
+   "name": "유기나노공학종합설계2",
+   "credit": 3
+ },
+ {
+   "course_id": "ONE4011",
+   "name": "유기전자소재나노공정",
+   "credit": 3
+ },
+ {
+   "course_id": "EGY4013",
+   "name": "에너지공학종합설계2",
+   "credit": 3
+ },
+ {
+   "course_id": "EGY4019",
+   "name": "에너지유기소재",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE3032",
+   "name": "지반공학및실험",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE4047",
+   "name": "수공구조물설계",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE4068",
+   "name": "건설환경공학종합설계2",
+   "credit": 3
+ },
+ {
+   "course_id": "ELE4029",
+   "name": "컴파일러",
+   "credit": 3
+ },
+ {
+   "course_id": "GEN6006",
+   "name": "특허법의이해",
+   "credit": 2
+ },
+ {
+   "course_id": "ECL3005",
+   "name": "임베디드제어시스템",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4010",
+   "name": "차량전자제어",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4014",
+   "name": "산업플라즈마공학",
+   "credit": 3
+ },
+ {
+   "course_id": "ELE3004",
+   "name": "제어공학",
+   "credit": 3
+ },
+ {
+   "course_id": "ELE4025",
+   "name": "펄스파워공학",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE3069",
+   "name": "건설사업관리1",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE4022",
+   "name": "건축음향",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE5013",
+   "name": "건축종합설계2",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE3070",
+   "name": "철근콘크리트구조2",
+   "credit": 3
+ },
+ {
+   "course_id": "CHE1015",
+   "name": "기능성고분자",
+   "credit": 3
+ },
+ {
+   "course_id": "CHE4053",
+   "name": "유기소자공학",
+   "credit": 3
+ },
+ {
+   "course_id": "CHM3078",
+   "name": "촉매반응공학",
+   "credit": 3
+ },
+ {
+   "course_id": "CHM4083",
+   "name": "나노화학공학",
+   "credit": 3
+ },
+ {
+   "course_id": "COE1011",
+   "name": "실용공학연구2",
+   "credit": 1
+ },
+ {
+   "course_id": "GEN5026",
+   "name": "테크노경영학",
+   "credit": 3
+ },
+ {
+   "course_id": "BIO2022",
+   "name": "세포생물학",
+   "credit": 3
+ },
+ {
+   "course_id": "BTN4009",
+   "name": "응용유전학",
+   "credit": 3
+ },
+ {
+   "course_id": "ICH4022",
+   "name": "고분자재료",
+   "credit": 3
+ },
+ {
+   "course_id": "ONE4005",
+   "name": "전공세미나(유기나노공학)URIP",
+   "credit": 3
+ },
+ {
+   "course_id": "TXE4065",
+   "name": "고분자구조",
+   "credit": 3
+ },
+ {
+   "course_id": "EGY3001",
+   "name": "재료물성학",
+   "credit": 3
+ },
+ {
+   "course_id": "EGY4016",
+   "name": "나노바이오에너지소재",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE3033",
+   "name": "건설경제학",
+   "credit": 3
+ },
+ {
+   "course_id": "CIE4058",
+   "name": "구조동역학",
+   "credit": 3
+ },
+ {
+   "course_id": "COE3053",
+   "name": "공업수학3",
+   "credit": 3
+ },
+ {
+   "course_id": "MME3026",
+   "name": "암반공학",
+   "credit": 3
+ },
+ {
+   "course_id": "ITE3068",
+   "name": "소프트웨어스튜디오2",
+   "credit": 3
+ },
+ {
+   "course_id": "ITE3060",
+   "name": "시스템프로그램설계2",
+   "credit": 2
+ },
+ {
+   "course_id": "ECL3007",
+   "name": "플라즈마공학2",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4011",
+   "name": "전동력제어",
+   "credit": 3
+ },
+ {
+   "course_id": "ECL4015",
+   "name": "전력전자제어",
+   "credit": 3
+ },
+ {
+   "course_id": "ELE3013",
+   "name": "전기기기",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE4014",
+   "name": "건축구조계획",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE4026",
+   "name": "환경과생태건축",
+   "credit": 3
+ },
+ {
+   "course_id": "ARE5032",
+   "name": "공학프로젝트및현장실습2",
+   "credit": 3
+ },
+ {
+   "course_id": "CHE3006",
+   "name": "화공열역학2",
+   "credit": 3
+ },
+ {
+   "course_id": "CHE4054",
+   "name": "화학공학종합설계2(URIP)",
+   "credit": 3
+ },
+ {
+   "course_id": "CHM4001",
+   "name": "기기분석",
+   "credit": 3
+ }
+]

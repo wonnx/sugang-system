@@ -1,0 +1,62 @@
+[
+ {
+   "manager_id": "abc4571998",
+   "password": "tjddo0513",
+   "name": "김성애",
+   "sex": "female"
+ },
+ {
+   "manager_id": "root",
+   "password": "1234",
+   "name": "관리자",
+   "sex": "male"
+ },
+ {
+   "manager_id": "labora7",
+   "password": "whddnjs0409",
+   "name": "김종원",
+   "sex": "male"
+ },
+ {
+   "manager_id": "skagur2",
+   "password": "skagur0112",
+   "name": "김남혁",
+   "sex": "male"
+ },
+ {
+   "manager_id": "ehddus2",
+   "password": "ehddus1",
+   "name": "김동연",
+   "sex": "male"
+ },
+ {
+   "manager_id": "dmswls2",
+   "password": "dmswls1",
+   "name": "허은진",
+   "sex": "female"
+ },
+ {
+   "manager_id": "dbwls2",
+   "password": "dbwls1",
+   "name": "홍유진",
+   "sex": "female"
+ },
+ {
+   "manager_id": "wlqja2",
+   "password": "wlqja1",
+   "name": "류지범",
+   "sex": "male"
+ },
+ {
+   "manager_id": "fnewiafno",
+   "password": "e34afa2",
+   "name": "우동장",
+   "sex": "male"
+ },
+ {
+   "manager_id": "nailey",
+   "password": "dPfls1",
+   "name": "정예린",
+   "sex": "female"
+ }
+]

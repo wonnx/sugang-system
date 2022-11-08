@@ -1,0 +1,358 @@
+[
+ {
+   "major_id": 1,
+   "name": "건설환경공학과"
+ },
+ {
+   "major_id": 2,
+   "name": "소프트웨어전공"
+ },
+ {
+   "major_id": 3,
+   "name": "컴퓨터전공"
+ },
+ {
+   "major_id": 4,
+   "name": "전기공학전공"
+ },
+ {
+   "major_id": 5,
+   "name": "건축공학부"
+ },
+ {
+   "major_id": 6,
+   "name": "화학공학전공"
+ },
+ {
+   "major_id": 7,
+   "name": "생명공학전공"
+ },
+ {
+   "major_id": 8,
+   "name": "유기나노공학과"
+ },
+ {
+   "major_id": 9,
+   "name": "에너지공학과"
+ },
+ {
+   "major_id": 10,
+   "name": "기계공학부"
+ },
+ {
+   "major_id": 11,
+   "name": "미래자동차공학과"
+ },
+ {
+   "major_id": 12,
+   "name": "원자력공학과"
+ },
+ {
+   "major_id": 13,
+   "name": "자원환경공학과"
+ },
+ {
+   "major_id": 14,
+   "name": "산업공학과"
+ },
+ {
+   "major_id": 15,
+   "name": "생체공학전공"
+ },
+ {
+   "major_id": 16,
+   "name": "도시공학과"
+ },
+ {
+   "major_id": 17,
+   "name": "융합전자공학부"
+ },
+ {
+   "major_id": 18,
+   "name": "신소재공학부"
+ },
+ {
+   "major_id": 19,
+   "name": "교육학과"
+ },
+ {
+   "major_id": 20,
+   "name": "국어교육과"
+ },
+ {
+   "major_id": 21,
+   "name": "영어교육과"
+ },
+ {
+   "major_id": 22,
+   "name": "응용미술교육과"
+ },
+ {
+   "major_id": 23,
+   "name": "교육공학과"
+ },
+ {
+   "major_id": 24,
+   "name": "수학교육과"
+ },
+ {
+   "major_id": 25,
+   "name": "성악과"
+ },
+ {
+   "major_id": 26,
+   "name": "작곡과"
+ },
+ {
+   "major_id": 27,
+   "name": "피아노과"
+ },
+ {
+   "major_id": 28,
+   "name": "관현악과"
+ },
+ {
+   "major_id": 29,
+   "name": "국악과"
+ },
+ {
+   "major_id": 30,
+   "name": "국어국문학과"
+ },
+ {
+   "major_id": 31,
+   "name": "영어영문학과"
+ },
+ {
+   "major_id": 32,
+   "name": "독어독문학과"
+ },
+ {
+   "major_id": 33,
+   "name": "중어중문학과"
+ },
+ {
+   "major_id": 34,
+   "name": "사학과"
+ },
+ {
+   "major_id": 35,
+   "name": "철학과"
+ },
+ {
+   "major_id": 36,
+   "name": "관광학부"
+ },
+ {
+   "major_id": 37,
+   "name": "수학전공"
+ },
+ {
+   "major_id": 38,
+   "name": "물리학전공"
+ },
+ {
+   "major_id": 39,
+   "name": "화학전공"
+ },
+ {
+   "major_id": 40,
+   "name": "생명과학전공"
+ },
+ {
+   "major_id": 41,
+   "name": "컴퓨터공학부"
+ },
+ {
+   "major_id": 42,
+   "name": "정보시스템학과"
+ },
+ {
+   "major_id": 43,
+   "name": "건축학부"
+ },
+ {
+   "major_id": 44,
+   "name": "경영학부"
+ },
+ {
+   "major_id": 45,
+   "name": "파이낸스경영학과"
+ },
+ {
+   "major_id": 46,
+   "name": "국제학부"
+ },
+ {
+   "major_id": 47,
+   "name": "경제금융학부"
+ },
+ {
+   "major_id": 48,
+   "name": "STS(과학기술학)전공"
+ },
+ {
+   "major_id": 49,
+   "name": "공공수행인문학전공"
+ },
+ {
+   "major_id": 50,
+   "name": "미디어문화전공"
+ },
+ {
+   "major_id": 51,
+   "name": "영어커뮤니케이션전공"
+ },
+ {
+   "major_id": 52,
+   "name": "통상한국어커뮤니케이션전공"
+ },
+ {
+   "major_id": 53,
+   "name": "글로벌비즈니스문화전공(영어전용)"
+ },
+ {
+   "major_id": 54,
+   "name": "중국경제통상전공"
+ },
+ {
+   "major_id": 55,
+   "name": "정책학과"
+ },
+ {
+   "major_id": 56,
+   "name": "법학과"
+ },
+ {
+   "major_id": 57,
+   "name": "의류학과"
+ },
+ {
+   "major_id": 58,
+   "name": "식품영양학과"
+ },
+ {
+   "major_id": 59,
+   "name": "실내건축디자인학과"
+ },
+ {
+   "major_id": 60,
+   "name": "체육학과"
+ },
+ {
+   "major_id": 61,
+   "name": "스포츠산업학과"
+ },
+ {
+   "major_id": 62,
+   "name": "연극영화학과"
+ },
+ {
+   "major_id": 63,
+   "name": "무용학과"
+ },
+ {
+   "major_id": 64,
+   "name": "간호학전공"
+ },
+ {
+   "major_id": 65,
+   "name": "간호전공"
+ },
+ {
+   "major_id": 66,
+   "name": "정치외교학과"
+ },
+ {
+   "major_id": 67,
+   "name": "사회학과"
+ },
+ {
+   "major_id": 68,
+   "name": "미디어커뮤니케이션학과"
+ },
+ {
+   "major_id": 69,
+   "name": "행정학과"
+ },
+ {
+   "major_id": 70,
+   "name": "한중통번역전공"
+ },
+ {
+   "major_id": 71,
+   "name": "화공생명공학부"
+ },
+ {
+   "major_id": 72,
+   "name": "전기·생체공학부"
+ },
+ {
+   "major_id": 73,
+   "name": "의예과"
+ },
+ {
+   "major_id": 74,
+   "name": "수학과"
+ },
+ {
+   "major_id": 75,
+   "name": "물리학과"
+ },
+ {
+   "major_id": 76,
+   "name": "화학과"
+ },
+ {
+   "major_id": 77,
+   "name": "생명과학과"
+ },
+ {
+   "major_id": 78,
+   "name": "응용시스템학과"
+ },
+ {
+   "major_id": 79,
+   "name": "교양인영역"
+ },
+ {
+   "major_id": 80,
+   "name": "인문과예술영역"
+ },
+ {
+   "major_id": 81,
+   "name": "언어와표현영역"
+ },
+ {
+   "major_id": 82,
+   "name": "세계인영역"
+ },
+ {
+   "major_id": 83,
+   "name": "사회와세계영역"
+ },
+ {
+   "major_id": 84,
+   "name": "실용인영역"
+ },
+ {
+   "major_id": 85,
+   "name": "비지니스와리더쉽영역"
+ },
+ {
+   "major_id": 86,
+   "name": "과학과기술영역"
+ },
+ {
+   "major_id": 87,
+   "name": "서울대학"
+ },
+ {
+   "major_id": 88,
+   "name": "봉사인영역"
+ },
+ {
+   "major_id": 89,
+   "name": "가상대학영역"
+ }
+]

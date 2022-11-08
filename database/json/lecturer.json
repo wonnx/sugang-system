@@ -1,0 +1,447 @@
+[
+ {
+   "lecturer_id": 2001001001,
+   "name": "조병완",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001001002,
+   "name": "조용식",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001011003,
+   "name": "조병완",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001011004,
+   "name": "한혁",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001021002,
+   "name": "강수용",
+   "major_id": 2
+ },
+ {
+   "lecturer_id": 2001031001,
+   "name": "박희진",
+   "major_id": 2
+ },
+ {
+   "lecturer_id": 2001032003,
+   "name": "이인환",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032004,
+   "name": "최진식",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032005,
+   "name": "김상욱",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032006,
+   "name": "박종일",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032007,
+   "name": "신동훈",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032008,
+   "name": "고광철",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032009,
+   "name": "정진욱",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032010,
+   "name": "김진오",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032011,
+   "name": "최창식",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032012,
+   "name": "이충선",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032013,
+   "name": "정재원",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032014,
+   "name": "이종석",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032015,
+   "name": "김승남",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032016,
+   "name": "문성용",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032017,
+   "name": "서경도",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032018,
+   "name": "서경도",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032019,
+   "name": "김진국",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032020,
+   "name": "공성호",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032021,
+   "name": "서영웅",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032022,
+   "name": "이동윤",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032023,
+   "name": "류성언",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032024,
+   "name": "윤채옥",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032025,
+   "name": "안희준",
+   "major_id": 8
+ },
+ {
+   "lecturer_id": 2001032026,
+   "name": "안이용",
+   "major_id": 8
+ },
+ {
+   "lecturer_id": 2001032027,
+   "name": "안형준",
+   "major_id": 8
+ },
+ {
+   "lecturer_id": 2001032028,
+   "name": "강용수",
+   "major_id": 9
+ },
+ {
+   "lecturer_id": 2001032029,
+   "name": "최기한",
+   "major_id": 9
+ },
+ {
+   "lecturer_id": 2001032030,
+   "name": "권태수",
+   "major_id": 9
+ },
+ {
+   "lecturer_id": 2001032031,
+   "name": "박두희",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032032,
+   "name": "조용식",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032033,
+   "name": "유재석",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032034,
+   "name": "조용식",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032035,
+   "name": "정형수",
+   "major_id": 2
+ },
+ {
+   "lecturer_id": 2001032036,
+   "name": "차재혁",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032037,
+   "name": "임을규",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032038,
+   "name": "장의선",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032039,
+   "name": "김상욱",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032040,
+   "name": "이형철",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032041,
+   "name": "이형철",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032042,
+   "name": "노태협",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032043,
+   "name": "정정주",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032044,
+   "name": "고광철",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032045,
+   "name": "유기찬",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032046,
+   "name": "전진용",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032047,
+   "name": "박운종",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032048,
+   "name": "한상환",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032049,
+   "name": "Justyn Wayne Jaworski",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032050,
+   "name": "서동학",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032051,
+   "name": "서영웅",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032052,
+   "name": "오성근",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032053,
+   "name": "서경도",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032054,
+   "name": "이병희",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032055,
+   "name": "류성언",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032056,
+   "name": "임태연",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032057,
+   "name": "김용희",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032058,
+   "name": "안광일",
+   "major_id": 7
+ },
+ {
+   "lecturer_id": 2001032059,
+   "name": "김성훈",
+   "major_id": 8
+ },
+ {
+   "lecturer_id": 2001032060,
+   "name": "안희준",
+   "major_id": 8
+ },
+ {
+   "lecturer_id": 2001032061,
+   "name": "임승순",
+   "major_id": 8
+ },
+ {
+   "lecturer_id": 2001032062,
+   "name": "이윤정",
+   "major_id": 9
+ },
+ {
+   "lecturer_id": 2001032063,
+   "name": "이준기",
+   "major_id": 9
+ },
+ {
+   "lecturer_id": 2001032064,
+   "name": "안광일",
+   "major_id": 9
+ },
+ {
+   "lecturer_id": 2001032065,
+   "name": "서종원",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032066,
+   "name": "박대효",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032067,
+   "name": "강석구",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032068,
+   "name": "반호기",
+   "major_id": 1
+ },
+ {
+   "lecturer_id": 2001032069,
+   "name": "최용석",
+   "major_id": 2
+ },
+ {
+   "lecturer_id": 2001032070,
+   "name": "노미나",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032071,
+   "name": "이춘화",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032072,
+   "name": "한규옥",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032073,
+   "name": "최진식",
+   "major_id": 3
+ },
+ {
+   "lecturer_id": 2001032074,
+   "name": "정규선",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032075,
+   "name": "현동석",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032076,
+   "name": "김래영",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032077,
+   "name": "이주",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032078,
+   "name": "김동준",
+   "major_id": 4
+ },
+ {
+   "lecturer_id": 2001032079,
+   "name": "김효진",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032080,
+   "name": "전진용",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032081,
+   "name": "차성민",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032082,
+   "name": "김주형",
+   "major_id": 5
+ },
+ {
+   "lecturer_id": 2001032083,
+   "name": "배영찬",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032084,
+   "name": "서경도",
+   "major_id": 6
+ },
+ {
+   "lecturer_id": 2001032085,
+   "name": "최유빈",
+   "major_id": 6
+ }
+]
