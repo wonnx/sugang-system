@@ -14,7 +14,7 @@
     <body>
         <div>
             <div class="top-bar-1">
-                <span class="header-title"><%="한양대학교 수강신청 페이지"%></span>
+                <span class="header-title" onclick="location.reload()"><%="한양대학교 수강신청 페이지"%></span>
                 <% if (id == null | name == null) { %>
                     <span class="header-login-btn" onclick="showPopup();"><%="로그인"%></span>
                 <% } else { %>
@@ -22,7 +22,9 @@
                 <% } %>
             </div>
             <div class="top-bar-2">
-                <span class="header-handbook-btn" onclick="location.href='test'"><%="수강편람"%></span>
+                <span class="header-handbook-btn" onclick="location.href='./handbook/handbook.jsp'">
+                    <%="수강편람"%>
+                </span>
             </div>
         </div>
         <script>

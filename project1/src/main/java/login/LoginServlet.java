@@ -1,3 +1,5 @@
+package login;
+
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
@@ -5,14 +7,14 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.*;
 
-@WebServlet(name = "LoginServlet", value = "/LoginServlet")
+@WebServlet(name = "LoginServlet", value = "/login/LoginServlet")
 public class LoginServlet extends HttpServlet {
     public LoginServlet() {
         super();
     }
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("Hello World 1");
+        System.out.println("Login Servlet doGet function");
     }
 
     @Override
@@ -69,15 +71,15 @@ public class LoginServlet extends HttpServlet {
                 String name = rs.getString("name");
                 session.setAttribute("id", id);
                 session.setAttribute("name", name);
-                response.sendRedirect("./login/loginSuccess.jsp");
+                response.sendRedirect("./loginSuccess.jsp");
             }else{
                 PrintWriter writer = response.getWriter();
                 writer.println("<script>");
                 writer.println("alert('현재 입력하신 아이디가 등록되어 있지 않거나, 아이디 또는 비밀번호를 잘못 입력 하셨습니다.');");
                 if(mode == 0){
-                    writer.println("location.href='./login/adminLogin.jsp';");
+                    writer.println("location.href='./adminLogin.jsp';");
                 }else{
-                    writer.println("location.href='./login/userLogin.jsp';");
+                    writer.println("location.href='./userLogin.jsp';");
                 }
                 writer.println("</script>");
             }
@@ -87,11 +89,28 @@ public class LoginServlet extends HttpServlet {
         }
 
         // 4. terminate the connection
-        try {
-            if(conn != null)
+        if (rs != null) {
+            try {
+                rs.close();
+            } catch(SQLException e) {
+                System.out.println(e);
+            }
+        }
+
+        if (pstmt != null) {
+            try {
+                pstmt.close();
+            } catch(SQLException e) {
+                System.out.println(e);
+            }
+        }
+
+        if (conn != null) {
+            try {
                 conn.close();
-        } catch (SQLException e) {
-            System.out.println(e);
+            } catch(SQLException e) {
+                System.out.println(e);
+            }
         }
     }
 }

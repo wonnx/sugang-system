@@ -21,7 +21,7 @@
             <div class="login-form">
                 <div class="login-form-left">
                     <form class="login-fields" method="post"
-                          action="/project1_war_exploded/LoginServlet" id="login-form">
+                          action="/project1_war_exploded/login/LoginServlet" id="login-form">
                         <input name="md" type="hidden" value="1"/>
                         <input name="id" class="login-form-field" type="text" placeholder="아이디"/>
                         <input name="pw" class="login-form-field" type="password" placeholder="비밀번호"/>
