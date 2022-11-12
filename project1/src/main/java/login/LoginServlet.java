@@ -26,7 +26,6 @@ public class LoginServlet extends HttpServlet {
         String id = request.getParameter("id");
         String pw = request.getParameter("pw");
         String md = request.getParameter("md");
-        int mode = Integer.parseInt(md);
 
         Connection conn = null;
         String server = "localhost:3307"; // MySQL server port
@@ -55,7 +54,7 @@ public class LoginServlet extends HttpServlet {
         ResultSet rs = null;
         PreparedStatement pstmt = null;
         String sql = null;
-        if(mode == 0){
+        if(md.equals("0")){
             sql = "select * from manager where manager_id = ? and password = ?";
         }else{
             sql = "select * from student where student_id = ? and password = ?";
@@ -71,15 +70,16 @@ public class LoginServlet extends HttpServlet {
                 String name = rs.getString("name");
                 session.setAttribute("id", id);
                 session.setAttribute("name", name);
-                response.sendRedirect("./loginSuccess.jsp");
+                session.setAttribute("md", md);
+                response.sendRedirect("../component/pages/login/loginSuccess.jsp");
             }else{
                 PrintWriter writer = response.getWriter();
                 writer.println("<script>");
                 writer.println("alert('현재 입력하신 아이디가 등록되어 있지 않거나, 아이디 또는 비밀번호를 잘못 입력 하셨습니다.');");
-                if(mode == 0){
-                    writer.println("location.href='./adminLogin.jsp';");
+                if(md.equals("0")){
+                    writer.println("location.href='../component/pages/login/adminLogin.jsp';");
                 }else{
-                    writer.println("location.href='./userLogin.jsp';");
+                    writer.println("location.href='../component/pages/login/userLogin.jsp';");
                 }
                 writer.println("</script>");
             }

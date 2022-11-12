@@ -142,7 +142,7 @@ public class HandbookServlet extends HttpServlet {
             session.setAttribute("course_name", course_name);
             ArrayList<HashMap<String, Object>> course_list = convertResultSetToArrayList(rs);
             session.setAttribute("handbook", course_list);
-            response.sendRedirect("./handbook.jsp");
+            response.sendRedirect("../component/pages/handbook/handbook.jsp");
         }catch(Exception e){
             e.printStackTrace();
             System.out.println(e);

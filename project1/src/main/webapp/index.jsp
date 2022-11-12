@@ -2,7 +2,8 @@
 <%
     String id = (String)session.getAttribute("id");
     String name = (String)session.getAttribute("name");
-//    System.out.println("index.jsp " + id + " " + name);
+    String md = (String)session.getAttribute("md");
+    boolean isLogin = (id != null) & (name != null);
 %>
 <!DOCTYPE html>
 <html>
@@ -13,25 +14,45 @@
     </head>
     <body>
         <div>
-            <div class="top-bar-1">
-                <span class="header-title" onclick="location.reload()"><%="한양대학교 수강신청 페이지"%></span>
-                <% if (id == null | name == null) { %>
-                    <span class="header-login-btn" onclick="showPopup();"><%="로그인"%></span>
-                <% } else { %>
-                    <span class="header-logout-btn" onclick="location.href='./login/logout.jsp'"><%=name+"님 로그아웃"%></span>
+            <div>
+                <jsp:include page='./component/header/header.jsp'>
+                    <jsp:param name="id" value="<%=id%>"/>
+                    <jsp:param name="name" value="<%=name%>"/>
+                    <jsp:param name="md" value="<%=md%>"/>
+                </jsp:include>
+            </div>
+            <div>
+                <% if(isLogin) { %>
+                    <div class="index">
+                        <div class="bg"></div>
+                        <div class="index-title">2022학년도 겨울계절학기 수강 안내</div>
+                        <div class="index-contents">
+                            <p style="font-weight: bold;"><2022.11.11. 공지></p>
+                            <p><span style="background-color: yellow;">[계열별 전문학술영어] 운영에 따른 안내</span></p>
+                            <ul class="index-ul">
+                                <li>2022년 2학기 계열별 전문학술영어 시행에 따라, 계절학기에도 계열벌로 수업이 운영됨.</li>
+                                <li>수강신청화면에서 수업번호별 계열표시 확인 후 소속 계열에 해당하는 수업 신청 바람.</li>
+                            </ul>
+                            <p style="font-weight: bold;"><2022.11.07. 공지></p>
+                            <p style="margin-bottom: 2vh;">2022학년도 서울캠퍼스 겨울계절학기는 대면강의로 진행됩니다.</p>
+                            <ul class="index-ul">
+                                <li>
+                                    수강신청 사이트 바로가기
+                                    <a href="https://portal.hanyang.ac.kr/sugang/sulg.do">
+                                        https://portal.hanyang.ac.kr/sugang/sulg.do
+                                    </a>
+                                </li>
+                                <li>
+                                    한양대학교 공지사항 페이지
+                                    <a href="http://www.hanyang.ac.kr/surl/XDRkB">
+                                        http://www.hanyang.ac.kr/surl/XDRkB
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 <% } %>
             </div>
-            <div class="top-bar-2">
-                <span class="header-handbook-btn" onclick="location.href='./handbook/handbook.jsp'">
-                    <%="수강편람"%>
-                </span>
-            </div>
         </div>
-        <script>
-            function showPopup(){
-                window.open("./login/login.jsp", "login", "width=750, height=300, left=200, top=200");
-                return false;
-            }
-        </script>
     </body>
 </html>
