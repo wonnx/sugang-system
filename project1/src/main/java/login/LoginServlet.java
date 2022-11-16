@@ -44,7 +44,7 @@ public class LoginServlet extends HttpServlet {
         // 2. create connection
         try {
             conn = DriverManager.getConnection("jdbc:mysql://" + server + "/" + database + "?serverTimezone=UTC&useSSL=false", user_name, password);
-            System.out.println("database connection success");
+            System.out.println("login-servlet-dopost: database connection success");
         } catch(SQLException e) {
             System.err.println("con error:" + e.getMessage());
             e.printStackTrace();
@@ -89,22 +89,6 @@ public class LoginServlet extends HttpServlet {
         }
 
         // 4. terminate the connection
-        if (rs != null) {
-            try {
-                rs.close();
-            } catch(SQLException e) {
-                System.out.println(e);
-            }
-        }
-
-        if (pstmt != null) {
-            try {
-                pstmt.close();
-            } catch(SQLException e) {
-                System.out.println(e);
-            }
-        }
-
         if (conn != null) {
             try {
                 conn.close();

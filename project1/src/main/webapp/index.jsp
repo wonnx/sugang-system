@@ -3,13 +3,14 @@
     String id = (String)session.getAttribute("id");
     String name = (String)session.getAttribute("name");
     String md = (String)session.getAttribute("md");
+    session.setAttribute("handbook", null);
     boolean isLogin = (id != null) & (name != null);
 %>
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>enrolment system</title>
+        <title>수강신청</title>
         <link rel="stylesheet" href="./index.css?after">
     </head>
     <body>

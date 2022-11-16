@@ -5,19 +5,20 @@
     String id = (String)session.getAttribute("id");
     String name = (String)session.getAttribute("name");
     String md = (String)session.getAttribute("md");
-
+    boolean isLogin = (id != null) & (name != null);
     String class_no = (String)session.getAttribute("class_no");
     String course_id = (String)session.getAttribute("course_id");
     String course_name = (String)session.getAttribute("course_name");
     ArrayList<HashMap<String, Object>> course_list = new ArrayList<HashMap<String, Object>>();
     if(session.getAttribute("handbook") != null){
         course_list = (ArrayList<HashMap<String, Object>>) session.getAttribute("handbook");
+        session.removeAttribute("handbook");
     }
 %>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>enrolment handbook</title>
+        <title>수강신청</title>
         <link rel="stylesheet" href="../../../index.css?after">
     </head>
     <body>
@@ -35,6 +36,7 @@
                     <form id="handbook-form" class="handbook"
                           action="/project1_war_exploded/handbook/HandbookServlet" method="get">
                         <div class="handbook-left-div">
+                            <input name="page" type="hidden" value="handbook">
                             <div class="handbook-left-box">
                                 <div class="handbook-form-title">수업번호</div>
                                 <input name="class_no" type="text"
@@ -67,13 +69,13 @@
                 <div class="w100 vh56">
                     <div class="handbook-list">
                         <div class="handbook-list-title">
-                            <div class="handbook-list-title-name w8">신청</div>
-                            <div class="handbook-list-title-name w8">수업번호</div>
-                            <div class="handbook-list-title-name w8">학수번호</div>
-                            <div class="handbook-list-title-name w15">교과목명</div>
-                            <div class="handbook-list-title-name w10">교강사이름</div>
+<%--                            <div class="handbook-list-title-name w8">신청</div>--%>
+                            <div class="handbook-list-title-name w10">수업번호</div>
+                            <div class="handbook-list-title-name w10">학수번호</div>
+                            <div class="handbook-list-title-name w17">교과목명</div>
+                            <div class="handbook-list-title-name w12">교강사이름</div>
                             <div class="handbook-list-title-name w25">수업시간</div>
-                            <div class="handbook-list-title-name w10">신청인원 / 수강정원</div>
+                            <div class="handbook-list-title-name w10">수강/정원</div>
                             <div class="handbook-list-title-name w16">강의실</div>
                         </div>
                         <% if(course_list.size() != 0) { %>
@@ -81,11 +83,13 @@
                                 <% for(int idx=0; idx<course_list.size(); idx++) { %>
                                     <% HashMap<String, Object> course = course_list.get(idx); %>
                                     <div class="handbook-list-content-items">
-                                        <div class="handbook-list-content-item w8"><button class="handbook-apply-btn" disabled>신청</button></div>
-                                        <div class="handbook-list-content-item w8"><%=course.get("수업번호")%></div>
-                                        <div class="handbook-list-content-item w8"><%=course.get("학수번호")%></div>
-                                        <div class="handbook-list-content-item w15"><%=course.get("교과목명")%></div>
-                                        <div class="handbook-list-content-item w10"><%=course.get("교강사이름")%></div>
+<%--                                        <div class="handbook-list-content-item w8">--%>
+<%--                                            <button class="handbook-btn apply-btn" <% if(!isLogin) { %> disabled <% } %> >신청</button>--%>
+<%--                                        </div>--%>
+                                        <div class="handbook-list-content-item w10"><%=course.get("수업번호")%></div>
+                                        <div class="handbook-list-content-item w10"><%=course.get("학수번호")%></div>
+                                        <div class="handbook-list-content-item w17"><%=course.get("교과목명")%></div>
+                                        <div class="handbook-list-content-item w12"><%=course.get("교강사이름")%></div>
                                         <div class="handbook-list-content-item w25">
                                             <%=course.get("수업시간") != null ? course.get("수업시간") : ""%>
                                         </div>

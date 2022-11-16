@@ -21,16 +21,11 @@
     }
 %>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>enrolment system header</title>
-        <link rel="stylesheet" href="../../index.css">
-    </head>
     <body>
         <div class="top-bar-1">
             <span class="header-title" onclick="location.href='<%=base_URL + "index.jsp"%>'">
                 <% if(isLogin) { %>
-                    한양대학교 수강신청 페이지 | 2022년 2학기
+                    한양대학교 수강신청 페이지 | 2022년 겨울학기 수강신청
                 <% } else { %>
                     한양대학교 수강신청 페이지
                 <% } %>
