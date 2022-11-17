@@ -17,5 +17,3 @@ SDK Amazon Corretto version 15.0.2
 ### execution
 1. project build
 2. tomcat connection  
-no backend server implementation  
-(design and check database on localhost)
